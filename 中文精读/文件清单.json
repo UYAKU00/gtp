@@ -1,0 +1,39 @@
+{
+  "source_repository": "https://github.com/UYAKU00/gtp",
+  "source_commit": "ee505c6d87429a265f1ccf0a81282ef72df3f186",
+  "date": "2026-09-07",
+  "translation_scope": "摘要完整翻译和正文分节详译；非逐句全文翻译",
+  "experiment_reproduction": false,
+  "papers": [
+    {
+      "file": "1-s2.0-S0010482525003683-main.pdf",
+      "pages": 16,
+      "sha256": "938b8187c06228a90d97df8a2c3b74ffdee37f6d8f729aa168794615b1309974"
+    },
+    {
+      "file": "1-s2.0-S002555642100136X-main.pdf",
+      "pages": 16,
+      "sha256": "41217b80b0271cd9336a96ee7ad421b5ac57602f234ad798944d046da16428f5"
+    },
+    {
+      "file": "320353.pdf",
+      "pages": 26,
+      "sha256": "d1c444b8592ffe1b08eefa36978555203affa67c1f61e24e473c22f3be254038"
+    },
+    {
+      "file": "377087.pdf",
+      "pages": 22,
+      "sha256": "905ad381d70c25fae512205f1425718282857bd2ee6045e6b07d49291af327bd"
+    },
+    {
+      "file": "colebank-et-al-2024-guidelines-for-mechanistic-modeling-and-analysis-in-cardiovascular-research.pdf",
+      "pages": 31,
+      "sha256": "084836d215b1e19604160ec01bf4bb4ed5e45d2c475cdfdf0022c4988ff510f4"
+    },
+    {
+      "file": "fphys-12-798510.pdf",
+      "pages": 10,
+      "sha256": "5dca985360d126f7d312308335065b38053c39f854beee9ef73490525acc6935"
+    }
+  ]
+}
